@@ -11,7 +11,6 @@ Developer experience at [NEAR Protocol](https://near.org): I build the tooling a
 ## Projects
 
 - [near-stake](https://github.com/matiasbenary/near-stake): non-custodial staking console, in production at [near-staking.trezu.org](https://near-staking.trezu.org)
-- [near-tools](https://github.com/matiasbenary/near-tools): wallet console for staking, tokens, linkdrops and access keys, [demo](https://matiasbenary.github.io/near-tools)
 - [near-connect-hooks](https://github.com/matiasbenary/near-connect-hooks): React hooks for NEAR wallet integration, published library with a [demo](https://matiasbenary.github.io/near-connect-hooks/)
 - [outlayer-mock](https://github.com/matiasbenary/outlayer-mock): dependency-free mock of OutLayer's agent custody API, 93 test files
 - [bootcamp-frontend-Ada](https://github.com/matiasbenary/bootcamp-frontend-Ada): material of the frontend bootcamp I taught at Ada ITW (2019–2023)
