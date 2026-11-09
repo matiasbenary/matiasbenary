@@ -1,0 +1,13 @@
+{
+  "name": "matiasbenary-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generators for the SVGs on github.com/matiasbenary",
+  "scripts": {
+    "build": "node scripts/build.mjs dist"
+  },
+  "devDependencies": {
+    "@fortawesome/free-brands-svg-icons": "7.3.1",
+    "simple-icons": "16.37.0"
+  }
+}
