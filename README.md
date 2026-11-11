@@ -10,7 +10,7 @@
   <a href="mailto:matiasbenary@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matiasbenary/matiasbenary/output/social-gmail-dark.svg"><img alt="Email" src="https://raw.githubusercontent.com/matiasbenary/matiasbenary/output/social-gmail-light.svg" height="44"></picture></a>
 </p>
 
-I'm a fullstack engineer from Buenos Aires, ten years in, mostly TypeScript, React and Node. Today I work on **Developer Experience at [NEAR Protocol](https://near.org)**: I build the tooling and example apps behind [docs.near.org](https://docs.near.org), built its Ask AI assistant, and ship features from the database to the UI.
+I'm a fullstack engineer from Buenos Aires, ten years in, mostly TypeScript, React and Node. Today I work on **Developer Experience at [NEAR Protocol](https://near.org)**: I build the tooling and example apps behind [docs.near.org](https://docs.near.org), built its Ask AI assistant, and ship features from the database to the UI. My CV and projects are at [matiasbenary.com](https://www.matiasbenary.com).
 
 Over the last 12 months I've been the [#1 contributor to near/docs](https://github.com/near/docs/pulls?q=is%3Apr+is%3Amerged+author%3Amatiasbenary) by merged PRs (43, more than any other author), on top of 228 merged pull requests across open source, most of them in repos I don't own: near-api-js, create-near-app, hello-near-examples, nearai/ironclaw. Before that I led the migration of [Fonselp](https://fonselp.org)'s legacy Laravel platform to Node and React; 7,500+ organizations use it. I write a weekly newsletter on NEAR internals at [neardev.substack.com](https://neardev.substack.com).
 
