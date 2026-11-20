@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="248" viewBox="0 0 840 248" role="img" aria-labelledby="title">
+<title id="title">GitHub activity: 70 followers, 20 stars, 166 public repos, 402 contributions in the last 12 months.</title>
+<style>
+.fade-up{opacity:0;animation:fade-up .7s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes fade-up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.shimmer{animation:shimmer 6s ease-in-out infinite}
+@keyframes shimmer{0%{transform:translateX(-160px)}55%,100%{transform:translateX(var(--end))}}
+.pulse{animation:pulse 2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important}}
+.eyebrow{font:400 11.5px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#6e7681;letter-spacing:1px}
+.value{font:600 36px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#e6edf3;letter-spacing:-1.2px}
+.label{font:400 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;fill:#9198a1}
+.best{font:400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#9198a1}
+.line{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.4s .5s cubic-bezier(.4,0,.2,1) forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.area{opacity:0;animation:appear 1.2s 1.6s ease forwards}
+.marker{opacity:0;animation:appear .6s 2.6s ease forwards}
+@keyframes appear{to{opacity:1}}
+@media (prefers-reduced-motion: reduce){.line{stroke-dashoffset:0}}</style>
+<defs><linearGradient id="stats-sh" x1="0" x2="1"><stop offset="0" stop-color="#c6ff1a" stop-opacity="0"/><stop offset=".5" stop-color="#c6ff1a" stop-opacity=".9"/><stop offset="1" stop-color="#c6ff1a" stop-opacity="0"/></linearGradient>
+<clipPath id="stats-clip"><rect width="840" height="248" rx="12"/></clipPath>
+<linearGradient id="area" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#c6ff1a" stop-opacity=".35"/><stop offset="1" stop-color="#c6ff1a" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="839" height="247" rx="12" fill="#0d1117" stroke="#30363d"/>
+<g clip-path="url(#stats-clip)"><rect class="shimmer" style="--end:1000px;animation-delay:0s" width="160" height="1.5" fill="url(#stats-sh)"/></g>
+<text x="32" y="40" class="eyebrow">GITHUB ACTIVITY</text>
+<text x="808" y="40" text-anchor="end" class="eyebrow">LAST 12 MONTHS · UPDATED NOV 20, 2026</text>
+<g class="fade-up" style="animation-delay:0.10s"><text x="32" y="100" class="value">70</text><text x="32" y="124" class="label">Followers</text></g>
+<g class="fade-up" style="animation-delay:0.18s"><text x="232" y="100" class="value">20</text><text x="232" y="124" class="label">Stars</text></g>
+<g class="fade-up" style="animation-delay:0.26s"><text x="432" y="100" class="value">166</text><text x="432" y="124" class="label">Public repos</text></g>
+<g class="fade-up" style="animation-delay:0.34s"><text x="632" y="100" class="value">402</text><text x="632" y="124" class="label">Contributions</text></g>
+<line x1="32" y1="220.5" x2="808" y2="220.5" stroke="#30363d" stroke-dasharray="2 4"/>
+<path class="area" d="M32.0 214.5 C34.5 213.1 41.9 208.3 46.9 206.3 C51.9 204.2 56.9 200.8 61.8 202.2 C66.8 203.5 71.8 212.2 76.8 214.5 C81.7 216.8 86.7 216.6 91.7 215.9 C96.7 215.2 101.6 209.7 106.6 210.4 C111.6 211.1 116.6 222.1 121.5 220.0 C126.5 217.9 131.5 201.3 136.5 198.1 C141.4 194.9 146.4 200.1 151.4 200.8 C156.4 201.5 161.3 199.2 166.3 202.2 C171.3 205.1 176.3 217.7 181.2 218.6 C186.2 219.5 191.2 208.6 196.2 207.7 C201.1 206.7 206.1 211.3 211.1 213.1 C216.1 215.0 221.0 220.5 226.0 218.6 C231.0 216.8 235.9 203.8 240.9 202.2 C245.9 200.6 250.9 207.7 255.8 209.0 C260.8 210.4 265.8 210.4 270.8 210.4 C275.7 210.4 280.7 208.8 285.7 209.0 C290.7 209.3 295.6 210.4 300.6 211.8 C305.6 213.1 310.6 217.9 315.5 217.3 C320.5 216.6 325.5 209.7 330.5 207.7 C335.4 205.6 340.4 207.2 345.4 204.9 C350.4 202.6 355.3 195.8 360.3 193.9 C365.3 192.1 370.3 192.6 375.2 193.9 C380.2 195.3 385.2 199.7 390.2 202.2 C395.1 204.7 400.1 206.1 405.1 209.0 C410.1 212.0 415.0 221.4 420.0 220.0 C425.0 218.6 429.9 201.7 434.9 200.8 C439.9 199.9 444.9 213.1 449.8 214.5 C454.8 215.9 459.8 209.5 464.8 209.0 C469.7 208.6 474.7 210.9 479.7 211.8 C484.7 212.7 489.6 215.7 494.6 214.5 C499.6 213.4 504.6 204.5 509.5 204.9 C514.5 205.4 519.5 218.2 524.5 217.3 C529.4 216.3 534.4 207.0 539.4 199.4 C544.4 191.9 549.3 169.5 554.3 172.0 C559.3 174.5 564.3 207.7 569.2 214.5 C574.2 221.4 579.2 214.3 584.2 213.1 C589.1 212.0 594.1 207.0 599.1 207.7 C604.1 208.3 609.0 215.9 614.0 217.3 C619.0 218.6 623.9 215.4 628.9 215.9 C633.9 216.3 638.9 219.3 643.8 220.0 C648.8 220.7 653.8 222.7 658.8 220.0 C663.7 217.3 668.7 205.4 673.7 203.5 C678.7 201.7 683.6 209.7 688.6 209.0 C693.6 208.3 698.6 197.6 703.5 199.4 C708.5 201.3 713.5 217.0 718.5 220.0 C723.4 223.0 728.4 219.3 733.4 217.3 C738.4 215.2 743.3 208.3 748.3 207.7 C753.3 207.0 758.3 211.1 763.2 213.1 C768.2 215.2 773.2 220.2 778.2 220.0 C783.1 219.8 788.1 211.8 793.1 211.8 C798.1 211.8 805.5 218.6 808.0 220.0 L808 220 L32 220 Z" fill="url(#area)"/>
+<path class="line" d="M32.0 214.5 C34.5 213.1 41.9 208.3 46.9 206.3 C51.9 204.2 56.9 200.8 61.8 202.2 C66.8 203.5 71.8 212.2 76.8 214.5 C81.7 216.8 86.7 216.6 91.7 215.9 C96.7 215.2 101.6 209.7 106.6 210.4 C111.6 211.1 116.6 222.1 121.5 220.0 C126.5 217.9 131.5 201.3 136.5 198.1 C141.4 194.9 146.4 200.1 151.4 200.8 C156.4 201.5 161.3 199.2 166.3 202.2 C171.3 205.1 176.3 217.7 181.2 218.6 C186.2 219.5 191.2 208.6 196.2 207.7 C201.1 206.7 206.1 211.3 211.1 213.1 C216.1 215.0 221.0 220.5 226.0 218.6 C231.0 216.8 235.9 203.8 240.9 202.2 C245.9 200.6 250.9 207.7 255.8 209.0 C260.8 210.4 265.8 210.4 270.8 210.4 C275.7 210.4 280.7 208.8 285.7 209.0 C290.7 209.3 295.6 210.4 300.6 211.8 C305.6 213.1 310.6 217.9 315.5 217.3 C320.5 216.6 325.5 209.7 330.5 207.7 C335.4 205.6 340.4 207.2 345.4 204.9 C350.4 202.6 355.3 195.8 360.3 193.9 C365.3 192.1 370.3 192.6 375.2 193.9 C380.2 195.3 385.2 199.7 390.2 202.2 C395.1 204.7 400.1 206.1 405.1 209.0 C410.1 212.0 415.0 221.4 420.0 220.0 C425.0 218.6 429.9 201.7 434.9 200.8 C439.9 199.9 444.9 213.1 449.8 214.5 C454.8 215.9 459.8 209.5 464.8 209.0 C469.7 208.6 474.7 210.9 479.7 211.8 C484.7 212.7 489.6 215.7 494.6 214.5 C499.6 213.4 504.6 204.5 509.5 204.9 C514.5 205.4 519.5 218.2 524.5 217.3 C529.4 216.3 534.4 207.0 539.4 199.4 C544.4 191.9 549.3 169.5 554.3 172.0 C559.3 174.5 564.3 207.7 569.2 214.5 C574.2 221.4 579.2 214.3 584.2 213.1 C589.1 212.0 594.1 207.0 599.1 207.7 C604.1 208.3 609.0 215.9 614.0 217.3 C619.0 218.6 623.9 215.4 628.9 215.9 C633.9 216.3 638.9 219.3 643.8 220.0 C648.8 220.7 653.8 222.7 658.8 220.0 C663.7 217.3 668.7 205.4 673.7 203.5 C678.7 201.7 683.6 209.7 688.6 209.0 C693.6 208.3 698.6 197.6 703.5 199.4 C708.5 201.3 713.5 217.0 718.5 220.0 C723.4 223.0 728.4 219.3 733.4 217.3 C738.4 215.2 743.3 208.3 748.3 207.7 C753.3 207.0 758.3 211.1 763.2 213.1 C768.2 215.2 773.2 220.2 778.2 220.0 C783.1 219.8 788.1 211.8 793.1 211.8 C798.1 211.8 805.5 218.6 808.0 220.0" pathLength="1" fill="none" stroke="#c6ff1a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="marker">
+  <circle cx="554.3" cy="172.0" r="7" fill="#c6ff1a" opacity=".25" class="pulse"/>
+  <circle cx="554.3" cy="172.0" r="3.5" fill="#c6ff1a"/>
+  <text x="554.3" y="160.0" text-anchor="middle" class="best">best week: 35</text>
+</g>
+</svg>
